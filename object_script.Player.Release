@@ -1,0 +1,10 @@
+release/Player.o
+release/audio.o
+release/ffmpeg.o
+release/main.o
+release/medialib.o
+release/videowidget.o
+release/worker.o
+release/qrc_ui.o
+release/moc_Player.o
+release/moc_worker.o

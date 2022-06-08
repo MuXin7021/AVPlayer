@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/open.png</file>
+        <file>image/shanchu.png</file>
+        <file>image/shangyishou.png</file>
+        <file>image/TV.png</file>
+        <file>image/xiayishou.png</file>
+        <file>image/yinlebofangye-xunhuanbofang.png</file>
+        <file>image/play.png</file>
+        <file>image/zanting-xian.png</file>
+        <file>image/suijibofang.png</file>
+        <file>image/bj.png</file>
+        <file>image/bofang.png</file>
+        <file>image/danquxunhuan.png</file>
+        <file>image/tianjiagequ.png</file>
+        <file>image/icon.png</file>
+        <file>image/fangkuang.png</file>
+        <file>image/guanbi.png</file>
+        <file>image/jianhao.png</file>
+        <file>image/jurassic.png</file>
+        <file>image/cyclo.png</file>
+    </qresource>
+</RCC>

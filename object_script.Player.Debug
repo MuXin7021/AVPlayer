@@ -1,0 +1,10 @@
+debug/Player.o
+debug/audio.o
+debug/ffmpeg.o
+debug/main.o
+debug/medialib.o
+debug/videowidget.o
+debug/worker.o
+debug/qrc_ui.o
+debug/moc_Player.o
+debug/moc_worker.o
